@@ -1,0 +1,60 @@
+{
+    "name": "vscode-theme-onelight",
+    "displayName": "Atom One Light Theme",
+    "description": "One Light Theme based on Atom",
+    "version": "1.3.1",
+    "publisher": "akamud",
+    "license": "MIT",
+    "galleryBanner": {
+		"color": "#E8E8E8",
+		"theme": "light"
+	},
+    "engines": {
+       "vscode": "*"
+    },
+    "categories": [
+    "Themes"
+    ],
+    "keywords": [
+        "atom",
+        "theme",
+        "light",
+        "one light"
+    ],
+    "icon": "icon.svg",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom One Light",
+                "uiTheme": "vs",
+                "path": "./themes/OneLight.tmTheme"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/akamud/vscode-theme-onelight/issues",
+        "email": "muddibr@gmail.com"
+    },
+    "homepage": "https://github.com/akamud/vscode-theme-onelight",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/akamud/vscode-theme-onelight"
+    },
+    "badges": [
+		{
+			"url": "http://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onelight.svg",
+			"href": "https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight",
+			"description": "Extension version"
+		},
+		{
+			"url": "http://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onelight.svg",
+			"href": "https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight",
+			"description": "Extension installs"
+		},
+		{
+			"url": "http://vsmarketplacebadge.apphb.com/rating/akamud.vscode-theme-onelight.svg",
+			"href": "https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight",
+			"description": "Extension Rating"
+		}
+	]
+}
