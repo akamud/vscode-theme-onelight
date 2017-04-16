@@ -21,8 +21,6 @@
           <string>#D3D4D5</string>
           <key>lineHighlight</key>
           <string>#F2F2F2</string>
-          <key>selection</key>
-          <string>#E5E5E6</string>
           <key>findHighlight</key>
           <string>#FFE792</string>
           <key>guide</key>
