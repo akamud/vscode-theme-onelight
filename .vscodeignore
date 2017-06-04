@@ -8,3 +8,4 @@ screenshots/**
 gulpfile.js
 **/*.psd
 **/*.ai
+themes/OneLight-old.tmTheme
