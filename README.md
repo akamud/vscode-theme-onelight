@@ -1,6 +1,7 @@
 # Atom One Light Theme
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight) [![Installs](https://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight)  
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight) [![Installs](https://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight)
+[![Beerpay](https://img.shields.io/beerpay/akamud/vscode-theme-onelight.svg)](https://beerpay.io/akamud/vscode-theme-onelight)  
 VSCode Theme based on Atom's [One Light](https://github.com/atom/one-light-syntax) theme. Best rated One Light theme port in the marketplace, **features full Workbench theming**.
 
 ![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
