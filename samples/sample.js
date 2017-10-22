@@ -72,3 +72,16 @@ const options, hey = {
 	},
 	qs: { q: `language:${argv.lang}`, sort: 'stars'},
 };
+
+const someString = 'this a string';
+
+const someTemplateLiteral = `this is a template literal`;
+
+const nestedTemp = `template string ${'normal string'} nested ${`another string ${'even deeper'}`}`
+
+for (loopCounter in degCent) {
+  if (isNaN(degFahren[loopCounter])) {
+    document.write("Value " + loopCounter + " which is " + "\"" + degFahren[loopCounter] + "\"" + " is invalid." + "<br>");
+    continue;
+  }
+}
