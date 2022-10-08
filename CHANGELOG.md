@@ -1,5 +1,9 @@
 The best rated One Light port now includes Workbench theming!
 
+## Version 2.3.0
+* Provide inlayHints colors
+* Fix Notebooks selection colors
+
 ## Version 2.2.1
 * Improve Rust highlighting
 
