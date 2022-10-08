@@ -40,6 +40,9 @@
         "type": "git",
         "url": "https://github.com/akamud/vscode-theme-onelight"
     },
+    "sponsor": {
+        "url": "https://github.com/sponsors/akamud"
+    },
     "badges": [
 		{
 			"url": "https://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onelight.svg",
