@@ -1,16 +1,17 @@
 # Atom One Light Theme
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight) [![Installs](https://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/akamud.vscode-theme-onelight.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onelight)
-[![Beerpay](https://img.shields.io/beerpay/akamud/vscode-theme-onelight.svg)](https://beerpay.io/akamud/vscode-theme-onelight)  
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-brightgreen)](https://vscode.dev/theme/akamud.vscode-theme-onelight) 
+![Visual Studio Marketplace Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/akamud.vscode-theme-onelight)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/akamud.vscode-theme-onelight)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/akamud.vscode-theme-onelight)
+
 VSCode Theme based on Atom's [One Light](https://github.com/atom/one-light-syntax) theme. Best rated One Light theme port in the marketplace, **features full Workbench theming**.
 
 ![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
 
 ## Sponsors
 
-[![](https://alt-images.codestream.com/codestream_logo_ali_atomonelight.png)](https://sponsorlink.codestream.com/?utm_source=vscmarket&utm_campaign=ali_atomonelight&utm_medium=banner "Try CodeStream")  
-Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your keybindings, and other IDE favorites.  
-[Learn more](https://sponsorlink.codestream.com/?utm_source=vscmarket&utm_campaign=ali_atomonelight&utm_medium=banner "Learn more")
+[Sponsor](https://github.com/sponsors/akamud) this project on GitHub.
 
 ## Installing
 
